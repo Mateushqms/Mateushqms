@@ -47,5 +47,5 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://Mateushqms.github.io/R/snake.svg" alt="Snake animation" />
+<img src="https://Mateushqms.github.io/Mateushqms/snake.svg" alt="Snake animation" />
 </div>
