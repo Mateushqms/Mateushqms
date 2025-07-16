@@ -1,36 +1,43 @@
-<h2 align="center">Hello! I'm Mateus, a Software Developer Student</h2>
+<h2 align="center">Hi ! I'm Mateus, a Software Developer Student</h2>
 
-<p align="center">
-  <a href="mailto:mateushqms@gmail.com"><img src="https://img.shields.io/badge/Email-mateushqms%40gmail.com-black"></a>
-  <a href="https://www.linkedin.com/in/mateus-henrique-queiroz-magalh%C3%A3es-sousa-a4058b2bb/"><img src="https://img.shields.io/badge/Linkedin-conect-blue" alt="LinkedIn"></a>
-</p>
+###
 
-<p align="center">
-  Currently studying Linux, Docker, and Kubernetes<br>
-  Open to collaborations on DevOps projects<br>
-  Goals: Dive deeper into DevOps practices and expand my knowledge in container orchestration and automation
-  
-  
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateushqms&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushqms&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-<h3 align="center">Languages and Tools</h3>
+<img align="right" height="120" src="https://images.steamusercontent.com/ugc/853848825685979066/80F37D1D2EAFACA6512CAA9F1F340FAD3733C94E/?imw=500&imh=500&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/>
-  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="35" height="35"/>
-  <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000" alt="kubernetes" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="35" height="35"/>
-  
-</p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateushqms&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Mateus GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateushqms&theme=tokyonight&hide_border=false">
-</p>
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+<img src="https://Mateushqms.github.io/R/snake.svg" alt="Snake animation" />
+</div>
