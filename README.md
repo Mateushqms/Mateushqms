@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="120" width="120" src="https://images.steamusercontent.com/ugc/853848825685979066/80F37D1D2EAFACA6512CAA9F1F340FAD3733C94E/?imw=500&imh=500&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="150" src="https://images.steamusercontent.com/ugc/853848825685979066/80F37D1D2EAFACA6512CAA9F1F340FAD3733C94E/?imw=500&imh=500&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
